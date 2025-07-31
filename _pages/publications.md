@@ -7,14 +7,11 @@ nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
+Working Papers
 
-<!-- Bibsearch Feature -->
+  “Jointly or Independently Clearing Market Design: Experimental Evidence” (with Daniel Houser), work in progress
+  
+  “Can Restricting Participation Improve Market Surplus? An Experimental Investigation” (with Daniel Houser), work in progress
 
-{% include bib_search.liquid %}
-
-<div class="publications">
-
-{% bibliography %}
-
-</div>
+  “Market Surplus and Derivative Asset Innovation: An Experimental Design” (with Daniel Houser), work in progress
+  
