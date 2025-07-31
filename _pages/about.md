@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Contact: dliu21@gmu.edu
+subtitle: Contact
 
 profile:
   align: right
