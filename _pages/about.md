@@ -2,13 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Contact
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+      <p>Contact: <a href='#'>dliu21@gmu.edu</a></p>
 
 
 
